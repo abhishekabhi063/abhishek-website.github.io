@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Abhishek's web page
+email: abhishekitkikar@gmail.com, a.abhishek@student.unisi.it
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: abhishekabhi063
 
 # Build settings
 markdown: kramdown
